@@ -1,1 +1,1 @@
-# git-bootcamp
+# git-bootcamp demo project
